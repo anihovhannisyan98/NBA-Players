@@ -2,7 +2,7 @@
 
 # 🏀 NBA Players SQL Analysis Project
 
-A comprehensive SQL practice project using real NBA player data from Kaggle. This repository contains 10 progressively challenging SQL tasks.
+A comprehensive SQL practice project using real NBA player data from Kaggle. This repository contains 9 progressively challenging SQL tasks.
 
 ## 📊 Dataset Overview
 
